@@ -4,7 +4,8 @@
   "description": "node.js ",
   "main": "jsfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "jsfile.js"
   },
   "author": "AD",
   "license": "ISC"
